@@ -1,2 +1,46 @@
-# energy-solar-linting-and-best-practices-enforcer-vs-code-extension
-Custom rules, auto-fix, inline warnings, and team config sharing for Energy &amp; Solar code. Catches Energy &amp; Solar-specific bugs generic linters miss.
+# Energy & Solar Linting and Best Practices Enforcer VS Code Extension
+
+> Vscode Extension for Energy Solar
+
+Professional energy solar VS Code extension — without the professional price tag.
+
+Compatible with Remote SSH, WSL, Dev Containers, and GitHub Codespaces. Status bar integration gives you real-time feedback without opening panels.
+
+## What's Included
+
+- Energy & Solar Linting And Best Practices Enforcer — fully configured and ready to use
+-...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core language support | ✅ | ✅ |
+| Basic snippets | ✅ | ✅ |
+| Standard themes | ✅ | ✅ |
+| AI-powered completions | ❌ | ✅ |
+| Advanced refactoring | ❌ | ✅ |
+| Team sync | ❌ | ✅ |
+| Custom keybindings | ❌ | ✅ |
+| Priority bug fixes | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/9B69AT9z92k49JK5bucZr0q)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
